@@ -1,5 +1,3 @@
 ### Hello!
 
-I'm a first-year PhD student in the Department of Statistics at the University of Michigan. I recently finished up my undergradate degree in statistics at the University of Minnesota.
-
-See [here](https://github.com/timwhite0/false-positives-calculator) and [here](https://github.com/timwhite0/MLBdash) for a couple of my past projects. You can also check out my website [here](https://timwhite0.github.io).
+I'm a second-year PhD student in the Department of Statistics at the University of Michigan. I'm interested in Bayesian inference and computation, specifically sequential Monte Carlo, Markov chain Monte Carlo, and variational inference. Before I came to Michigan, I got my undergraduate degree in statistics at the University of Minnesota.
